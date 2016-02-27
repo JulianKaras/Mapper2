@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">Mapper2</string>
-    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_maps">Mapper2</string>
     <string name="google_maps_key">AIzaSyBlQivfKolX0IaW03nq9GpaBOlTO9l2hfk</string>
     <string name="google_app_id"> 526505880268</string>
+    <string name="use_umbrella">Should I take an umbrella today?</string>
 </resources>
